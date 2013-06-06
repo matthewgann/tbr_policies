@@ -57,4 +57,3 @@ features[taxonomy][] = tbr_policies_and_guidelines
 features[taxonomy_display][] = policy_guideline_contacts
 features[taxonomy_display][] = tbr_policies_and_guidelines
 features[views_view][] = taxonomy_term_for_policies
-project status url = http://fserver.tbrweb05.tbr.edu/fserver
